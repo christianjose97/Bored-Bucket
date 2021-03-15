@@ -1,0 +1,2 @@
+The directory containing your most recent build. It will automatically be
+ignored as a change to the git repository.
