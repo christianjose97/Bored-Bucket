@@ -1,0 +1,3 @@
+Directory to contain any data-related files to be read/written by the program.
+This folder can be deemed useless if a database is implemented and the data
+is stored outside the project.
