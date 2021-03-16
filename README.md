@@ -10,7 +10,7 @@ An all-in-one boredom solver to quench your thirst for entertainment.
 updates your local repo with what has been stored in main repo
 
 ```git add .```   
-all changes made in your local repo will be "staged" for commiting
+all changes made in your local repo will be "staged" for committing
 
 ```git status```   
 track what files on your local repo are currently unstaged/staged
